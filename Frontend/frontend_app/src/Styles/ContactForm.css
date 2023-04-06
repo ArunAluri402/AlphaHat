@@ -1,0 +1,10 @@
+.Contact_Form {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+
+  padding: 15px 35px;
+  background-color: #282826;
+  color: #fff;
+  font-weight: 500;
+}
